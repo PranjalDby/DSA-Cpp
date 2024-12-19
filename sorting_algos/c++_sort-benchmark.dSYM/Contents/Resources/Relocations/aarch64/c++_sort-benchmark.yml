@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pranjaldubey/Developer/DSA-Cpp/sorting_algos/c++_sort-benchmark'
+relocations:     []
+...
